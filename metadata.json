@@ -1,0 +1,6 @@
+{
+  "name": "Orbit - Gestão de Metas de Estudo",
+  "description": "Aplicação acolhedora e flexível para estudantes organizarem objetivos de estudo, prazos, status e links de materiais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
